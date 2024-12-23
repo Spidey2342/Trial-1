@@ -38,7 +38,8 @@ body{
     padding: 30px;
     margin-top: 50px;
     margin-left: 450px;
-    background-color: white;
+    background-color: black;
+    color:white;
   }
   h2{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
