@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:linear-gradient(rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.562),rgba(0, 0, 0, 0.651)), url(anime-boy-dark-hair-casual-look-desktop-wallpaper.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+
+}
+h1{
+    font-size: 90px;
+    text-transform: uppercase;
+    margin-left: 320px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+p{
+
+}
+table{
+    border: 1px solid black;
+    margin-top:80px ;
+    margin-left: 140px;
+}
+tr{
+    height: 75px;
+}
+th{
+    width: 360px;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.one{
+    background-color: rgb(245, 62, 62);
+}
+.two{
+    background-color: rgb(250, 36, 36);
+}
+.three{
+    background-color: red;
+}
+td{
+    width: 360px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.ash{
+    background-color: rgb(27, 26, 26);
+}
+button{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
