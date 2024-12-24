@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 25vh;
+    background-color: rgb(66, 25, 245);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 90px;
+    text-align: center;
+}
+.text{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 170px;
+
+}
+.blue{
+    color: white;
+    background-color: blue;
+}
+p{
+    width: 90px;
+    border: 2px solid blue;
+    height: 10px;
+    text-align: center;
+    margin: 40px;
+    color: blue;
+    padding: 25px;
+    font-size: 20px;
+}
+.image{
+    display: flex;
+    flex-direction: column;
+}
+.main{
+    display: flex;
+
+}
+.main img{
+    height: 350px;
+    width: 300px;
+    margin: 70px;
+}
